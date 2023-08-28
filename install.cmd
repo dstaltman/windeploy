@@ -25,9 +25,19 @@ choco install github-desktop -y
 choco install vscode -y
 choco install pycharm -y
 choco install git -y
+choco install terminals -y
+choco install jetbrains-rider -y
+choco install everything -y
+choco install slack -y
+choco install beyondcompare -y
+choco install windirstat -y
+choco install steam -y
+choco install parsec -y
+choco install discord -y
 
 
 :: get and install nerd fonts
+:: this is huge and takes forever. BEWARE!
 git clone https://github.com/ryanoasis/nerd-fonts.git
 .\nerd-fonts\install.ps1
 
