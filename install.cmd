@@ -34,6 +34,7 @@ choco install windirstat -y
 choco install steam -y
 choco install parsec -y
 choco install discord -y
+choco install 1password -y
 
 
 :: get and install nerd fonts
