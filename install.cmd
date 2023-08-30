@@ -35,6 +35,7 @@ choco install steam -y
 choco install parsec -y
 choco install discord -y
 choco install 1password -y
+choco install googlechrome -y
 
 
 :: get and install nerd fonts
